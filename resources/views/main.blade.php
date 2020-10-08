@@ -30,7 +30,7 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="./"><img src="style/images/logo-mini.png" alt="Logo" sizes="60px"><br></a>
+                <a class="navbar-brand" href="./"><img src="style/images/logo-mini.png" alt="Logo"><br></a>
             </div>
 
             <div id="main-menu" class="main-menu collapse navbar-collapse">
@@ -135,7 +135,7 @@
                     <div class="page-title">
                         <ol class="breadcrumb text-right">
                             <li><a href="#">Dashboard</a></li>
-                            <li class="active">Home</li>
+                            <li class="active">Ebook</li>
                         </ol>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                     </div>
                 </div>
 
-                {{-- <div class="col-lg-6">
+                <div class="col-lg-6">
                     <div class="card">
                         <div class="card-header">
                             <strong class="card-title">Table Head</strong>
@@ -231,7 +231,7 @@
 
                         </div>
                     </div>
-                </div> --}}
+                </div>
                 </div>
             </div><!-- .animated -->
                 <div class="animated fadeIn"></div>
